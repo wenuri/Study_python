@@ -24,4 +24,4 @@ while True:
         print(e)
     else:
         print(f'{search_name} 고객의 구매금액은 : {amount}원')
-        break
+        break 
